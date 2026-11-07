@@ -4,8 +4,6 @@ Principal Solution Architect. I help organizations turn a cloud decision into a 
 
 The work runs from the architecture through the implementation: account structure, identity, guardrails, and a path teams can ship on. Infrastructure as code, containers, and automation are the usual means. The tool follows the estate.
 
-I spent six years at Nordcloud, an IBM company, including as AWS Tech Lead for Scandinavia. Before that I led cloud operations at Husqvarna and founded Dm3 Solutions. I am based in Jönköping and work in Swedish and English.
-
 ## Public work
 
 - [aws-arch-agent](https://github.com/gutehall/aws-arch-agent) reviews CDK, CloudFormation, and Terraform locally, against the Well-Architected pillars. It needs no AWS credentials.
